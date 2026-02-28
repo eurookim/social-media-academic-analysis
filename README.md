@@ -3,7 +3,7 @@
 ## Overview
 Statistical analysis of how daily social media usage affects academic 
 performance and mental health among undergraduate students across the 
-USA, France, and Spain (n=81).
+USA, France, and Spain.
 
 ## Key Findings
 - Students reporting academic impact averaged 6.1 hrs/day of social 
@@ -21,13 +21,6 @@ USA, France, and Spain (n=81).
 
 ## Tech Stack
 R · dplyr · ggplot2 · knitr
-
-## Files
-| File | Description |
-|------|-------------|
-| `MATH408_Project_Euro_Kim.Rmd` | Full R analysis and code |
-| `Students_Social_Media_Addiction.csv` | Raw dataset from Kaggle |
-| `MATH408_Project_Euro_Kim.pdf` | Written report with results |
 
 ## Data Source
 Kaggle — [Students' Social Media Addiction](https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships)
